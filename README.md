@@ -1,2 +1,2 @@
 # rising-waters
-An educational game about flood prevention.
+An educational game about flood prevention by Making Waves Corporation.
